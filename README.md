@@ -1,4 +1,4 @@
-# MP4_AdobeChallenge
+# Adobe_Challenge -- Tweet_Content_and_Behaviour_Simulation
 
 ## Proposed Methodology
 The high level design diagram of the proposed approach is as
@@ -31,3 +31,5 @@ the Behaviour Prediction, we make use of Regression mod-
 els while for Content Generation we make use of Large Lan-
 guage Models (LLMs) to which data is communicated in the
 form of prompts
+
+### For more details, please refer the [Project Report](https://github.com/MoyankGiri/Adobe_Challenge-Tweet_Content_and_Behaviour_Simulation/blob/main/Team52/report.pdf)
