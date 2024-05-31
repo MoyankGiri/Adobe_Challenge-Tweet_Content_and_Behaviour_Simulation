@@ -32,4 +32,4 @@ els while for Content Generation we make use of Large Lan-
 guage Models (LLMs) to which data is communicated in the
 form of prompts
 
-### For more details, please refer the [Project Report](https://github.com/MoyankGiri/Adobe_Challenge-Tweet_Content_and_Behaviour_Simulation/blob/main/Team52/report.pdf)
+### For more details, please refer the [Project Report](https://github.com/MoyankGiri/Adobe_Challenge-Tweet_Content_and_Behaviour_Simulation/blob/main/Team52/report.pdf) and the [Project Presentation](https://github.com/MoyankGiri/Adobe_Challenge-Tweet_Content_and_Behaviour_Simulation/blob/main/FinalPPT_AdobeBehaviourSimulationChallenge.pdf)
